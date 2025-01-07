@@ -27,3 +27,17 @@ OR
 
 
 Only students have the ability to apply for jobs.
+
+
+# CITATIONS
+Tailwind: https://tailwindcss.com/docs/installation (Styling)
+React: https://react.dev/learn/installation (Framework)
+Vite: https://vite.dev/guide/ (Frontend Tool)
+TypeScript: https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html (Language)
+HeroIcons: https://heroicons.com/ (Styling/Icons)
+Firebase: https://firebase.google.com/docs (Backend)
+GettyImages: (Images)
+1. https://www.gettyimages.com/detail/photo/hispanic-teenage-female-high-school-student-smiling-royalty-free-image/480425934
+2. https://www.gettyimages.com/detail/photo/portrait-of-a-confident-young-businessman-working-royalty-free-image/1321409713?adppopup=true
+3. https://www.gettyimages.com/detail/photo/cheerful-young-asian-female-student-smiling-at-royalty-free-image/1371287439?adppopup=true
+Careerleadershipcollective: https://www.careerleadershipcollective.com/post/2019/02/14/the-untapped-potential-of-campus-employment (Image)
