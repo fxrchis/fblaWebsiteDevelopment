@@ -3,13 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBh67XJLxCzoJMaSOUpT0SiMVCA4j0Ohts",
-  authDomain: "career-a50b1.firebaseapp.com",
-  projectId: "career-a50b1",
-  storageBucket: "career-a50b1.appspot.com",
-  messagingSenderId: "821323331638",
-  appId: "1:821323331638:web:4ec8fc8d7f72d445784097",
-  measurementId: "G-4MB8CM260J"
+  //Hidden Information
 };
 
 const app = initializeApp(firebaseConfig);
